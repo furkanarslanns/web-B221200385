@@ -1,0 +1,24 @@
+.fotoslider {
+    height: 600px;
+}
+body{
+    padding-top: 50px;
+}
+.ayrac {
+    border: none;
+    border-top: 3px solid black;
+    max-width: 250px;
+    margin: 25px auto;
+}
+.kutu2 {
+    color: black;
+    position: relative;
+    top: -55px;
+    font-size: 50px;
+    border: 10px solid white;
+    background-color: white;
+}
+
+
+
+
